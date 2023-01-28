@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Saidur-Rahman
 - 👀 I’m interested in ... programing
-- 🌱 I’m currently learning ... java and C
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Python
+- 💞️ I have learned about C Java Javascript and Php
+- I can Manage Database
 - 📫 How to reach me ...saidur35-2919@diu.edu.bd
 
 <!---
